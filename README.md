@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hemanth
-- 👀 I’m Data Engineer and algo trader
+- 👀 I’m Senior Data Engineer/AI Engineer and algo trader
 - Google Cloud certified professional data engineer
 
 <!---
