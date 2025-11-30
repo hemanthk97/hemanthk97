@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemanth!
 
-🚀 Senior Data Engineer | 🤖 AI Enthusiast | 📈 Algorithmic Trader
+🚀 Senior Data Engineer | 🤖 AI Engineer | 📈 Algorithmic Trader 
 
 ---
 
@@ -12,8 +12,10 @@
 
 ### 💼 What I Do
 - Architect and implement robust data engineering solutions
+- Architect and implement autonomous Agents to solve mission-critical problems
 - Develop and deploy AI/ML models for real-world impact
 - Research and execute algorithmic trading strategies
+- Google first 
 
 ### 🌐 Connect With Me
 - 💬 Ask me about data engineering, AI, or algo trading!
